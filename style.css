@@ -1,6 +1,6 @@
 @font-face {
     font-family: myfont;
-    src: url(Sundown\gilroy);
+    src: url(Sundown\gillory\gilroy/Gilroy-Black.ttf);
 }
 @font-face{
     font-family: myfont1;
@@ -107,12 +107,12 @@ nav img{
 }
 #nav-part2 h4:hover::after{
     bottom: 0;
-    /* z-index: 1; */
-    border-radius: 0;
-    -webkit-border-radius: 0;
+    /*z-index: 1;
+    *  0-webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     -o-border-radius: 0;
+    -webkit-border-radius: 0;
 }
 #nav-part2 h4 a{
     text-decoration: none;
